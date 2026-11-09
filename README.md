@@ -34,7 +34,7 @@ The script does not download the GGUF model. Supply the model separately.
 ## Repository layout
 
 ```text
-qwen3-local-server/
+IA-local-server/
 ├── deploy/
 │   └── Deploy-Qwen3.ps1
 ├── .gitignore
@@ -46,8 +46,8 @@ qwen3-local-server/
 Clone the repository:
 
 ```powershell
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/qwen3-local-server.git
-cd qwen3-local-server
+git clone https://github.com/CrowTheFallen/IA-local-server.git
+cd IA-local-server
 ```
 
 Run the deployment script:

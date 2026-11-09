@@ -1,0 +1,24 @@
+# Local model files
+*.gguf
+*.bin
+*.safetensors
+
+# Logs and diagnostics
+*.log
+logs/
+
+# Local environment/configuration
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
